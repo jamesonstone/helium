@@ -8,10 +8,7 @@ tab3 = 'http://google.com/a/voxy.com'
 tab4 = 'http://outlook.com'
 tab5 = 'http://facebook.com'
 # second pages
-tab6 = 'http://www.safe-mail.net'
-tab7 = 'http://www.hushmail.com'
 tab8 = 'http://www.woot.com'
-tab9 = 'http://www.professionalmuscle.com/forums/'
 # work pages
 tab10 = 'http://govoxy.atlassian.net'
 tab11 = 'http://www.bitbucket.org'
