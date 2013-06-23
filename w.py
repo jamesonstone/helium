@@ -14,7 +14,7 @@ tab10 = 'http://govoxy.atlassian.net'
 tab11 = 'http://www.bitbucket.org'
 
 std_pages = [tab1, tab2, tab3, tab4, tab5]
-sec_pages = [tab6, tab7, tab8, tab9]
+sec_pages = [tab8]
 work_pages = [tab10, tab11]
 
 # function standard links
