@@ -26,24 +26,6 @@ def open_links(answer, list_links):
 	else:
 		print 'Done!'
 
-# # function for second set of links
-# def open_second(answer):
-# 	if answer == 'y' or answer == 'yes':
-# 		for a in sec_pages:
-# 			webbrowser.open(a, new=1, autoraise=False)
-# 			print 'opened: ' + a
-# 	else:
-# 		print 'Done!'
-
-# # function for work links
-# def open_work(answer):
-# 	if answer == 'y' or answer == 'yes':
-# 		for d in work_pages:
-# 			webbrowser.open(d, new=1, autoraise=False)
-# 			print 'opened: ' + d
-# 	else:
-# 		print 'Done!'
-
 
 def main():
 	f = raw_input('Should we open up the first set of links? ')
@@ -54,10 +36,6 @@ def main():
 	open_links(e, work_pages)
 	print "Thank you and have a really nice day!"
 
-
-
-
-	
 
 
 
