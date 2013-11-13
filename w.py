@@ -11,7 +11,7 @@ tab5 = 'http://facebook.com'
 tab8 = 'http://www.woot.com'
 # work pages
 tab10 = 'http://govoxy.atlassian.net'
-tab11 = 'http://www.bitbucket.org'
+tab11 = 'http://github.com'
 
 std_pages = [tab1, tab2, tab3, tab4, tab5]
 sec_pages = [tab8]
